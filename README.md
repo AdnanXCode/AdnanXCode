@@ -1,7 +1,7 @@
 [![MasterHead](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTUH7ZjMdWxblQXkgmQZ1xyt0H6-flqhZeHzg&usqp=CAU)](https://adnanf-parallax.vercel.app/)
 
 <h1 align="center">Hi 👋, I'm Adnan Faturrohman</h1>
-<h3 align="center">I am 17 years old now, sitting in the 10th grade of SMKM2 Cibiru Bandung City, I am learning about Front-End Developer and hopefully it can be better in the future,</h3>
+<h3 align="center">I am 17 years old now, sitting in the 10th grade of SMKM2 Cibiru, Bandung City, I am learning about Front-End Developer and hopefully it can be better in the future.</h3>
 <img align="right" alt="Coding width="400" src="https://holisitclearning.com/static/media/Front-end_Developer.8e8fc63a21e6eaa925b4.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=adnanxcode&label=Profile%20views&color=0e75b6&style=flat" alt="adnanxcode" /> </p>
